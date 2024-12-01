@@ -1,4 +1,4 @@
-# Gojo Spotify Theme (insanely eye pleasing)
+# Gojo Spotify Theme
 
 ![oie_wKjvsT6z6BML](https://github.com/user-attachments/assets/14eb03ae-6c35-49b5-b461-092df5213178)
 
