@@ -10,6 +10,8 @@ https://www.spotify.com/download/windows/
 
 Disclaimer: This is an edit of https://github.com/Motschen/Retroblur
 
+The color.ini and theme.js have been edited and customized.
+
 # Step by step installation guide - Windows
 
 
