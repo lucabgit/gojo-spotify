@@ -48,6 +48,7 @@ Inside config-xpui.ini, set "current_theme" "from marketplace" to the same name 
 Go back to powershell. Type "spicetify apply" and hit enter.
 
 # Enjoy
+![111111111](https://github.com/user-attachments/assets/90d59b26-209c-4727-b39c-404351919dd0)
 
 
 # How to uninstall
