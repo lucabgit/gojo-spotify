@@ -44,8 +44,6 @@ Edit config-xpui.ini with notepad++ or any other text editing software of your c
 (You can get notepad++ here) https://notepad-plus-plus.org/downloads/
 
 Inside config-xpui.ini, set "current_theme" "from marketplace" to the same name as the .zip folder
-![aaaa](https://github.com/user-attachments/assets/cd45a68b-125f-443a-894d-4c645df6df89)
-
 
 Go back to powershell. Type "spicetify apply" and hit enter.
 
