@@ -68,3 +68,33 @@ Run
 rmdir -r -fo $env:APPDATA\spicetify
 rmdir -r -fo $env:LOCALAPPDATA\spicetify
 ```
+
+# What is Spicetify?
+
+Spicetify is a tool used to customize and modify the appearance and functionality of the Spotify client. It allows users to tweak the Spotify desktop app or web player by applying themes, installing extensions, and adjusting settings that are not natively available through Spotify itself.
+
+Here are some of the key features of Spicetify:
+
+Themes: Users can change the visual style of Spotify, choosing from pre-made themes or creating their own. This can modify elements like colors, fonts, and layout.
+
+Extensions: Spicetify supports extensions that add additional functionality to Spotify, such as additional features, enhanced controls, or integration with other services.
+
+Custom Scripts: Advanced users can write custom JavaScript scripts to further enhance or alter the behavior of Spotify, giving complete control over the experience.
+
+Configuration Tweaks: It also allows for advanced settings adjustments, like hiding or rearranging UI elements, or enabling certain features that are not officially supported.
+
+Installation and Usage:
+
+Spicetify is open-source and typically requires some technical knowledge to install, as it often involves working with command-line interfaces or installing dependencies like Node.js.
+It's mainly available for users who use Spotify on Windows, macOS, and Linux.
+Overall, Spicetify is a powerful tool for users who want to fully personalize and enhance their Spotify experience. However, it’s important to note that using Spicetify requires caution, as modifying Spotify’s functionality can sometimes result in issues or may not be officially supported by Spotify.
+
+Documentation: https://github.com/spicetify/docs
+Developement: https://spicetify.app/docs/development
+
+- ChatGPT
+
+# Is Spicetify an official Spotify App/Extension?
+
+Short Answer: No
+Long Answer: 
