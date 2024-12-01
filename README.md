@@ -8,7 +8,11 @@ Sources:
 https://spicetify.app/docs/getting-started#windows
 https://www.spotify.com/download/windows/
 
+Disclaimer: This is an edit of https://github.com/Motschen/Retroblur
+
 # Step by step installation guide - Windows
+
+
 
 Open Powershell
 
