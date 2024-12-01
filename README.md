@@ -94,7 +94,4 @@ Developement: https://spicetify.app/docs/development
 
 - ChatGPT
 
-# Is Spicetify an official Spotify App/Extension?
-
-Short Answer: No
-Long Answer: 
+![EEEEE](https://github.com/user-attachments/assets/42e31714-76fd-43f0-81b4-8026a6efcb09)
