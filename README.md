@@ -1,4 +1,4 @@
-# Gojo Spotify Theme
+# Gojo Spotify Theme (insanely eye pleasing)
 
 Dependencies: Spotify, Spicetify, notepad++ (or any other notepad/text editing software)
 
