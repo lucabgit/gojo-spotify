@@ -1,5 +1,8 @@
 # Gojo Spotify Theme (insanely eye pleasing)
 
+![oie_wKjvsT6z6BML](https://github.com/user-attachments/assets/14eb03ae-6c35-49b5-b461-092df5213178)
+
+
 Dependencies: Spotify, Spicetify, notepad++ (or any other notepad/text editing software)
 
 Sources: 
