@@ -36,11 +36,9 @@ Extract the folder and put it on your desktop
 
 Press Windows + R
 
-Type in "appdata" 
+Type in "%appdata%" 
 
 Hit enter
-
-Go to Roaming
 
 Go to Spicetify
 
