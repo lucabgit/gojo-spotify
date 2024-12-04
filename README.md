@@ -46,7 +46,7 @@ Put the .zip folder you downloaded into the "themes" folder
 
 !!If you use winrar, dont extract the folder. Go into the winrar archive and drag the zip folder thats inside into the themes folder.!!
 
-Edit config-xpui.ini with notepad++ or any other text editing software of your choice. 
+Edit config-xpui.ini (the ini file is inside your spicetify folder) with notepad++ or any other text editing software of your choice. 
 (You can get notepad++ here) https://notepad-plus-plus.org/downloads/
 
 Inside config-xpui.ini, set "current_theme" "from marketplace" to the same name as the .zip folder
