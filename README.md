@@ -46,7 +46,7 @@ Go to Spicetify
 
 Put the .zip folder you downloaded into the "themes" folder 
 
-!!If you use winrar, dont extract the folder. Go into the winrar archive and drag the zip folder thats inside onto your desktop.!!
+!!If you use winrar, dont extract the folder. Go into the winrar archive and drag the zip folder thats inside into the themes folder.!!
 
 Edit config-xpui.ini with notepad++ or any other text editing software of your choice. 
 (You can get notepad++ here) https://notepad-plus-plus.org/downloads/
